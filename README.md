@@ -13,7 +13,7 @@
 - Qt6::OpenGLWidgets
 
 Порядок действий для установки:
-1. Скопируйте ссылку на [репозиторий](https://repos.21-school.ru/students/CPP3_SmartCalc_v2.0.ID_353536/kegsbett_student.21_school.ru/CPP3_SmartCalc_v2.0-1.git)
+1. Скопируйте ссылку на [репозиторий](git@github.com:Osipof/CPP-Object-Viewer.git)
 2. Склонируйте репозиторий и зайдите в папку src
 3. Впишите в терминал `make install`
 
